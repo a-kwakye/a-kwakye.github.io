@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Alexander Kwakye
 
-You can use the [editor on GitHub](https://github.com/a-kwakye/a-kwakye.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a Ph.D student at the Veeramah Lab at Stony Brook University. The primary topics we explore at [the Veeramah Lab](https://you.stonybrook.edu/veeramahlab/) include medieval paleogenomics and evolutionary genomics. We analyze multiple temporal data to study evolution of various primates such as humans, and other vertebrates like the three-spined stickleback. 
 
-### Markdown
+## Field of study 
+Population Genetics and molecular evolution
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research interests
+Standing genetic variations, adaptive evolution, precision medicine.
 
-```markdown
-Syntax highlighted code block
+## Research focus 
+My interest is to study adaptation through standing genetic variation in three-spined stickleback. With a background in biomedical science, my goal is to to apply the knowledge from threes-spined stickleback to develop new mathematical and/or computational models to study the evolution of human diseases at the genomic level. The three-spined stickleback is an excellent model to study genetic phenonomena as adaptive evolution, genetic parallelism, contemporary evolution among others, and details of this model organism can be found in a recent [review](https://www.annualreviews.org/doi/full/10.1146/annurev-genom-111720-081402).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a-kwakye/a-kwakye.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I'm exploring how ancestral marine populations of the three-spined stickleback have been adapting to new freshwater habitats since at least 10 million years ago ([ref](https://meridian.allenpress.com/copeia/article-abstract/2009/2/256/115060/The-World-s-Oldest-Fossil-Threespine-Stickleback)). The speed with which marine populations adapt to freshwater habitats suggests that adaptation to freshwater habitats by marine populations is mediated by standing genetic variation (SGV) (those variations that exist in populations with no fitness benefit or could even be deleterious, but become beneficial when there is a change in environment). This feature doesn't only make the three-spined stickleback fish a model organism to study adapation through SGV but also other phenomena such as genetic parallelism, contemporary evolution and many others. Our lab in collaboration with the [Kingsley Lab at Stanford](https://kingsley.stanford.edu) identified set of loci that are used repeatedly by marine three-spined stickleback to adapt to new freshwater habitats ([ref](https://advances.sciencemag.org/content/7/25/eabg5285.abstract)). I'm 
+studying how these loci change in the ancestral marine populations and what point in the life cycle of the fish do these loci experience selection.  
