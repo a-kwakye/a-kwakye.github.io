@@ -2,10 +2,10 @@
 
 ## About me
 
-I'm a Ph.D student at the Veeramah Lab at Stony Brook University. The primary topics we explore at [the Veeramah Lab](https://you.stonybrook.edu/veeramahlab/) include medieval paleogenomics and evolutionary genomics. We analyze multiple temporal data to study evolution of various primates such as humans, and other vertebrates like the three-spined stickleback. 
+I'm a Ph.D student at the [the Veeramah Lab](https://you.stonybrook.edu/veeramahlab/) at Stony Brook University. The primary topics we explore at the Veeramah Lab include medieval paleogenomics and evolutionary genomics. We analyze multiple temporal data to study evolution of various primates such as humans, and other vertebrates like the three-spined stickleback. 
 
 ## Field of study 
-Population Genetics and molecular evolution
+Population genetics and molecular evolution
 
 ## Research interests
 Standing genetic variations, adaptive evolution, precision medicine.
