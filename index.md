@@ -2,13 +2,14 @@
 
 ## About me
 
-I'm a Ph.D student at the [the Veeramah Lab](https://you.stonybrook.edu/veeramahlab/) at Stony Brook University. The primary topics we explore at the Veeramah Lab include medieval paleogenomics and evolutionary genomics. We analyze multiple temporal data to study evolution of various primates such as humans, and other vertebrates like the three-spined stickleback. 
+I'm a Ph.D student at the [the Veeramah Lab](https://you.stonybrook.edu/veeramahlab/) at Stony Brook University. I have a background in Biomedical Science. I obtained a master's degree from Florida Atlantic University and bachelor's in Medical Laboratory Technology from the prestigious Kwame Nkrumah University of Science and Technology (KNUST). I have previously conducted research into human diseases such as HIV/AIDS and Alzheimer's disease. During my master's degree for instance, I explored molecular processes that engendered the pathogenesis of Alzheimer's disease, and discovered that immediate-early genes could play major roles in the origin of this neurodegenerative disease. 
+My current Ph.D. research focuses on mechanisms of local adaptation through standing genetic variation in the Threespine Stickleback model organism. In particular, I'm exploring the population mechanics underlying the assemblage of adaptive loci during local adaptation (as local adaptation results in a concentrated genomic architecture [ref](https://academic.oup.com/genetics/article/220/1/iyab134/6497714) to freshwater habitats by Threespine Stickleback. As well, I'm interested in identifying specific selective pressures and genes that drive local adaptation.  
 
 ## Field of study 
 Population genetics and molecular evolution
 
 ## Research interests
-Standing genetic variations, adaptive evolution, precision medicine.
+Standing genetic variation, local adaptation, precision medicine.
 
 ## Research focus 
 My interest is to study adaptation through standing genetic variation in three-spined stickleback. The three-spined stickleback is an excellent model to study genetic phenonomena as adaptive evolution, genetic parallelism, contemporary evolution among others. Details of this model organism can be found in a recent [review](https://www.annualreviews.org/doi/full/10.1146/annurev-genom-111720-081402) from our lab.
